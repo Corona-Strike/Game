@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6ab39cfa82b474a4784bfee7b41ec5ef
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playButton: {fileID: 6586294676983964308, guid: 5a33b87b111f48e4da5f6d1636bcaad1,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

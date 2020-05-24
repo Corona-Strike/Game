@@ -1,0 +1,2032 @@
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\mscorlib.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\netstandard.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.AppContext.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Collections.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.ComponentModel.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Console.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Core.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Data.Common.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Data.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Drawing.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Globalization.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.IO.Compression.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.IO.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.IO.Pipes.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Linq.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Net.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Net.Http.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Net.Ping.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Net.Primitives.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Net.Requests.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Net.Security.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Net.Sockets.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Numerics.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.ObjectModel.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Reflection.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Resources.Reader.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Resources.Writer.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Runtime.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Security.Claims.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Security.Principal.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Security.SecureString.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Text.Encoding.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Threading.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Threading.Thread.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Threading.Timer.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Transactions.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.ValueTuple.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Web.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Windows.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Xml.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Xml.Serialization.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Xml.XPath.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Unity.Analytics.Editor.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Unity.Timeline.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Unity.Timeline.Editor.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Unity.Timeline.pdb
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Unity.TextMeshPro.pdb
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\Unity.PackageManagerUI.Editor.pdb
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\obj\Debug\Assembly-CSharp.dll
+C:\Users\Max\Desktop\Unity\New\cube_crush_v2.0\obj\Debug\Assembly-CSharp.pdb
+D:\_Desktop\cube_crush_v2.0\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\_Desktop\cube_crush_v2.0\obj\Debug\Assembly-CSharp.dll
+D:\_Desktop\cube_crush_v2.0\obj\Debug\Assembly-CSharp.pdb
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Assembly-CSharp.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\mscorlib.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\netstandard.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\nunit.framework.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.AppContext.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Collections.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.ComponentModel.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Console.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Core.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Data.Common.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Data.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Drawing.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Globalization.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.IO.Compression.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.IO.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.IO.Pipes.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Linq.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Net.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Net.Http.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Net.Ping.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Net.Primitives.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Net.Requests.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Net.Security.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Net.Sockets.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Numerics.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.ObjectModel.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Reflection.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Resources.Reader.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Resources.Writer.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Runtime.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Security.Claims.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Security.Principal.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Security.SecureString.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Text.Encoding.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Threading.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Threading.Thread.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Threading.Timer.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Transactions.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.ValueTuple.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Web.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Windows.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Xml.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Xml.Linq.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Xml.XPath.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Unity.Analytics.Editor.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Unity.Locator.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Unity.Timeline.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEditor.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.UI.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Unity.Cecil.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Unity.DataContract.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\ExCSS.Unity.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Unity.IvyParser.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Unity.CecilTools.dll
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Unity.PackageManagerUI.Editor.pdb
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Unity.Timeline.pdb
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+D:\_Desktop\cube_crush_v2.0\Temp\bin\Debug\nunit.framework.xml
+D:\_Desktop\cube_crush_v2.0\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\_Desktop\cube_crush_v2.0\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Assembly-CSharp.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\mscorlib.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\netstandard.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\nunit.framework.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.AppContext.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Collections.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.ComponentModel.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Console.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Core.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Data.Common.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Data.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Drawing.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Globalization.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.IO.Compression.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.IO.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.IO.Pipes.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Linq.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Net.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Net.Http.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Net.Ping.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Net.Primitives.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Net.Requests.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Net.Security.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Net.Sockets.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Numerics.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.ObjectModel.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Reflection.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Resources.Reader.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Resources.Writer.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Runtime.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Security.Claims.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Security.Principal.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Security.SecureString.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Text.Encoding.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Threading.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Threading.Thread.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Threading.Timer.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Transactions.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.ValueTuple.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Web.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Windows.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Xml.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Xml.Linq.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Xml.XPath.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Unity.Analytics.Editor.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Unity.Locator.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Unity.Timeline.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEditor.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.UI.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Unity.Cecil.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Unity.DataContract.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\ExCSS.Unity.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Unity.IvyParser.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Unity.CecilTools.dll
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Unity.PackageManagerUI.Editor.pdb
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Unity.Timeline.pdb
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+D:\_Desktop\cube_crush_v3.0\Temp\bin\Debug\nunit.framework.xml
+D:\_Desktop\cube_crush_v3.0\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\_Desktop\cube_crush_v3.0\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\_Desktop\cube_crush_v3.0\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\_Desktop\cube_crush_v3.0\obj\Debug\Assembly-CSharp.dll
+D:\_Desktop\cube_crush_v3.0\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\mscorlib.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\netstandard.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.AppContext.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Collections.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.ComponentModel.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Console.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Core.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Data.Common.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Data.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Drawing.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Globalization.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.IO.Compression.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.IO.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.IO.Pipes.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Linq.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Net.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Net.Http.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Net.Ping.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Net.Primitives.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Net.Requests.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Net.Security.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Net.Sockets.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Numerics.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.ObjectModel.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Reflection.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Resources.Reader.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Resources.Writer.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Runtime.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Security.Claims.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Security.Principal.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Security.SecureString.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Text.Encoding.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Threading.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Threading.Thread.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Threading.Timer.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Transactions.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.ValueTuple.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Web.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Windows.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Xml.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Xml.Serialization.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Xml.XPath.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Unity.Analytics.Editor.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Unity.Timeline.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Unity.Timeline.Editor.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Unity.PackageManagerUI.Editor.pdb
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Unity.Timeline.pdb
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Unity.TextMeshPro.pdb
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\obj\Debug\Assembly-CSharp.dll
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Max\Desktop\Школа конференции\cube_crush_v3.0\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\mscorlib.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\netstandard.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\nunit.framework.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.AppContext.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Collections.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.ComponentModel.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Console.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Core.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Data.Common.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Data.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Drawing.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Globalization.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.IO.Compression.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.IO.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.IO.Pipes.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Linq.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Net.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Net.Http.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Net.Ping.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Net.Primitives.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Net.Requests.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Net.Security.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Net.Sockets.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Numerics.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.ObjectModel.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Reflection.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Resources.Reader.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Resources.Writer.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Runtime.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Security.Claims.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Security.Principal.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Security.SecureString.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Text.Encoding.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Threading.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Threading.Thread.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Threading.Timer.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Transactions.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.ValueTuple.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Web.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Windows.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Xml.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Xml.Linq.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Xml.XPath.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Unity.Analytics.Editor.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Unity.Locator.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Unity.Timeline.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEditor.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Unity.Cecil.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Unity.DataContract.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Unity.IvyParser.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Unity.PackageManagerUI.Editor.pdb
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Unity.Timeline.pdb
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+D:\Downloads\Unity\cube_crush_v4.0\Temp\bin\Debug\nunit.framework.xml
+D:\Downloads\Unity\cube_crush_v4.0\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Downloads\Unity\cube_crush_v4.0\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\Downloads\Unity\cube_crush_v4.0\obj\Debug\Assembly-CSharp.dll
+D:\Downloads\Unity\cube_crush_v4.0\obj\Debug\Assembly-CSharp.pdb
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\mscorlib.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\netstandard.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\nunit.framework.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.AppContext.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Collections.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.ComponentModel.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Console.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Core.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Data.Common.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Data.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Drawing.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Globalization.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.IO.Compression.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.IO.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.IO.Pipes.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Linq.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Net.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Net.Http.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Net.Ping.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Net.Primitives.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Net.Requests.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Net.Security.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Net.Sockets.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Numerics.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.ObjectModel.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Reflection.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Resources.Reader.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Resources.Writer.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Runtime.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Security.Claims.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Security.Principal.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Security.SecureString.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Text.Encoding.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Threading.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Threading.Thread.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Threading.Timer.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Transactions.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.ValueTuple.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Web.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Windows.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Xml.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Xml.Linq.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Xml.XPath.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Unity.Analytics.Editor.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Unity.Locator.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Unity.Timeline.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEditor.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Unity.Cecil.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Unity.DataContract.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Unity.IvyParser.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Unity.PackageManagerUI.Editor.pdb
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Unity.Timeline.pdb
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+D:\Downloads\Unity\cube_crush_v4.1\Temp\bin\Debug\nunit.framework.xml
+D:\Downloads\Unity\cube_crush_v4.1\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Downloads\Unity\cube_crush_v4.1\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\Downloads\Unity\cube_crush_v4.1\obj\Debug\Assembly-CSharp.dll
+D:\Downloads\Unity\cube_crush_v4.1\obj\Debug\Assembly-CSharp.pdb
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\mscorlib.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\netstandard.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\nunit.framework.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.AppContext.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Collections.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.ComponentModel.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Console.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Core.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Data.Common.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Data.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Drawing.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Globalization.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.IO.Compression.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.IO.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.IO.Pipes.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Linq.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Net.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Net.Http.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Net.Ping.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Net.Primitives.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Net.Requests.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Net.Security.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Net.Sockets.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Numerics.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.ObjectModel.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Reflection.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Resources.Reader.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Resources.Writer.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Runtime.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Security.Claims.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Security.Principal.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Security.SecureString.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Text.Encoding.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Threading.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Threading.Thread.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Threading.Timer.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Transactions.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.ValueTuple.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Web.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Windows.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Xml.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Xml.Linq.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Xml.XPath.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Unity.Analytics.Editor.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Unity.Locator.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Unity.Timeline.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEditor.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Unity.Cecil.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Unity.DataContract.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Unity.IvyParser.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Unity.PackageManagerUI.Editor.pdb
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Unity.Timeline.pdb
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+D:\Downloads\Unity\cube_crush_v4.2\Temp\bin\Debug\nunit.framework.xml
+D:\Downloads\Unity\cube_crush_v4.2\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\Downloads\Unity\cube_crush_v4.2\obj\Debug\Assembly-CSharp.dll
+D:\Downloads\Unity\cube_crush_v4.2\obj\Debug\Assembly-CSharp.pdb
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\mscorlib.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\netstandard.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.AppContext.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Collections.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.ComponentModel.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Console.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Core.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Data.Common.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Data.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Drawing.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Globalization.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.IO.Compression.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.IO.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.IO.Pipes.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Linq.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Net.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Net.Http.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Net.Ping.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Net.Primitives.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Net.Requests.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Net.Security.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Net.Sockets.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Numerics.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.ObjectModel.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Reflection.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Resources.Reader.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Resources.Writer.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Runtime.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Security.Claims.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Security.Principal.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Security.SecureString.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Text.Encoding.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Threading.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Threading.Thread.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Threading.Timer.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Transactions.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.ValueTuple.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Web.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Windows.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Xml.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Xml.Linq.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Xml.XPath.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.Analytics.Editor.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.Rider.Editor.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.Timeline.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.VSCode.Editor.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEditor.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEditor.UI.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.Advertisements.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.Monetization.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.Cecil.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEditor.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.Monetization.pdb
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.Advertisements.pdb
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.UI.pdb
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.Timeline.pdb
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.Rider.Editor.pdb
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEditor.UI.pdb
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+D:\Ян\Desktop\C#\Corona Strike\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+D:\Ян\Desktop\C#\Corona Strike\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Ян\Desktop\C#\Corona Strike\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\Ян\Desktop\C#\Corona Strike\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\Ян\Desktop\C#\Corona Strike\obj\Debug\Assembly-CSharp.dll
+D:\Ян\Desktop\C#\Corona Strike\obj\Debug\Assembly-CSharp.pdb
+C:\Users\User\Documents\Game\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\User\Documents\Game\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\mscorlib.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\netstandard.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.AppContext.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Collections.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.ComponentModel.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Console.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Core.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Data.Common.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Data.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Drawing.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Globalization.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.IO.Compression.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.IO.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.IO.Pipes.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Linq.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Net.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Net.Http.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Net.Ping.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Net.Primitives.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Net.Requests.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Net.Security.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Net.Sockets.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Numerics.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.ObjectModel.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Reflection.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Resources.Reader.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Resources.Writer.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Runtime.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Security.Claims.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Security.Principal.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Security.SecureString.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Text.Encoding.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Threading.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Threading.Thread.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Threading.Timer.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Transactions.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Web.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Windows.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Xml.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Xml.Serialization.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Xml.XPath.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.Analytics.Editor.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.Rider.Editor.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.Timeline.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.Timeline.Editor.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.VSCode.Editor.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEditor.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.Monetization.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEditor.TestRunner.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEditor.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.Monetization.pdb
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.Advertisements.pdb
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.UI.pdb
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.Timeline.pdb
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.Rider.Editor.pdb
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.TextMeshPro.pdb
+C:\Users\User\Documents\Game\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEditor.UI.pdb
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.VFXModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+C:\Users\User\Documents\Game\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+C:\Users\User\Documents\Game\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Game\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\User\Documents\Game\obj\Debug\Assembly-CSharp.dll
+C:\Users\User\Documents\Game\obj\Debug\Assembly-CSharp.pdb
