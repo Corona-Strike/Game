@@ -25,6 +25,7 @@ public class InfectionLogic : MonoBehaviour
                 {
                     item.material.color = Color.white;
                 }
+                enabled = false;
             }
             if (gameObject.name == "SampleMedicNPC(Clone)" || gameObject.name == "MedicNPC(Clone)")
             {
@@ -36,6 +37,8 @@ public class InfectionLogic : MonoBehaviour
                 {
                     item.material.color = Color.green;
                 }
+                enabled = false;
+                GetComponent<MedicAI>().enabled = true;
             }
             if (gameObject.name == "SampleGuardianNPC(Clone)" || gameObject.name == "GuardianNPC(Clone)")
             {
@@ -47,6 +50,8 @@ public class InfectionLogic : MonoBehaviour
                 {
                     item.material.color = Color.blue;
                 }
+                enabled = false;
+                GetComponent<GuardianAI>().enabled = true;
             }
         }
     }

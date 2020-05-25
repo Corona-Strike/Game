@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEditor.Experimental.GraphView;
 using UnityEngine;
@@ -8,6 +9,7 @@ public class NPCInfection : MonoBehaviour
 {
     int infections = 0;
     Renderer[] renderer = null;
+    public static event Action<float> OnInfection;
     void Start()
     {
         GetComponent<Suicide>().enabled = false;
@@ -39,6 +41,7 @@ public class NPCInfection : MonoBehaviour
                         item.material.color = Color.red;
                     }
                     GetComponent<Suicide>().enabled = true;
+                    OnInfection?.Invoke(Time.time);
                     SpawnBehave.ObjectsCount--;
                     break;
                 case "Guardian":
@@ -53,6 +56,7 @@ public class NPCInfection : MonoBehaviour
                         item.material.color = Color.red;
                     }
                     GetComponent<Suicide>().enabled = true;
+                    OnInfection?.Invoke(Time.time);
                     SpawnBehave.ObjectsCount--;
                     break;
                 case "CommonNPC":
@@ -66,6 +70,7 @@ public class NPCInfection : MonoBehaviour
                         item.material.color = Color.red;
                     }
                     GetComponent<Suicide>().enabled = true;
+                    OnInfection?.Invoke(Time.time);
                     SpawnBehave.ObjectsCount--;
                     break;
                 default:

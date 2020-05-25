@@ -15,6 +15,7 @@ public class NavAgentExample : MonoBehaviour
     [NonSerialized] public bool canFollowPlayer = true;
     private bool npcfollow = false;
     GameObject transf = default;
+    
     void Start()
     {
         _navAgent = GetComponent<NavMeshAgent>();
@@ -25,17 +26,18 @@ public class NavAgentExample : MonoBehaviour
     void SetNextDestination(bool increment)
     {
         if (!WaypointNetwork) return;
-        int incStep = increment ? 1 : 0;
-        int nextmove = incStep + CurrentIndex >= WaypointNetwork.Waypoints.Count ? 0 : incStep + CurrentIndex;
+        //int incStep = increment ? 1 : 0;
+        //int nextmove = incStep + CurrentIndex >= WaypointNetwork.Waypoints.Count ? 0 : incStep + CurrentIndex;
 
-        if (WaypointNetwork.Waypoints[nextmove] != null)
-        {
-            CurrentIndex = nextmove;
-            Transform nextDestination = WaypointNetwork.Waypoints[nextmove];
-            _navAgent.destination = nextDestination.position;
-            return;
-        }
-        CurrentIndex++;
+        //if (WaypointNetwork.Waypoints[nextmove] != null)
+        //{
+        //    CurrentIndex = nextmove;
+        //    Transform nextDestination = WaypointNetwork.Waypoints[nextmove];
+        //    return;
+        //}
+        CurrentIndex = UnityEngine.Random.Range(1, WaypointNetwork.Waypoints.Count);
+
+        _navAgent.destination = WaypointNetwork.Waypoints[CurrentIndex].position;
     }
 
     void OnTriggerEnter(Collider collider)
