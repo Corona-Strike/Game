@@ -1,7 +1,11 @@
-﻿using UnityEngine;
+﻿using ErosionBrushPlugin;
+using System.Collections.Generic;
+using System.Configuration;
+using UnityEngine;
 
 public class SpawnBehave : MonoBehaviour
 {
+    [System.NonSerialized] public static List<GameObject> Infected = new List<GameObject>();
     [SerializeField] private GameObject Medic, Guard, Common = null;
     [SerializeField] public Transform Player; 
     [SerializeField] public static Transform player;

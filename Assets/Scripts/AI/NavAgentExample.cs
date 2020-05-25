@@ -13,6 +13,8 @@ public class NavAgentExample : MonoBehaviour
     public int CurrentIndex = 0;
     [NonSerialized] public bool followsPlayer = false;
     [NonSerialized] public bool canFollowPlayer = true;
+    private bool npcfollow = false;
+    GameObject transf = default;
     void Start()
     {
         _navAgent = GetComponent<NavMeshAgent>();
@@ -48,15 +50,46 @@ public class NavAgentExample : MonoBehaviour
     }
     void Update()
     {
-        if (followsPlayer && canFollowPlayer)
+        if (followsPlayer && canFollowPlayer && !gameObject.CompareTag("CommonNPC") && !gameObject.CompareTag("Infected"))
         {
             _navAgent.destination = SpawnBehave.player.position;
             return;
         }
-        if ((_navAgent.remainingDistance <= _navAgent.stoppingDistance && !_navAgent.pathPending) || _navAgent.pathStatus == NavMeshPathStatus.PathInvalid)
-            SetNextDestination(true);
-        else if(_navAgent.isPathStale)
-            SetNextDestination(false);
+        if (!gameObject.CompareTag("Medic"))
+        {
+            if ((_navAgent.remainingDistance <= _navAgent.stoppingDistance && !_navAgent.pathPending) || _navAgent.pathStatus == NavMeshPathStatus.PathInvalid)
+                SetNextDestination(true);
+            else if (_navAgent.isPathStale)
+                SetNextDestination(false);
+        }
+        else if (SpawnBehave.Infected.Count != 0)
+        {
+            int corners = 1000000;
+            if (npcfollow)
+            {
+                _navAgent.destination = transf.transform.position;
+                if (_navAgent.pathStatus == NavMeshPathStatus.PathComplete) npcfollow = false;
+                return;
+            }
+            foreach (var item in SpawnBehave.Infected)
+            {
+                NavMeshPath temp = new NavMeshPath();
+                _navAgent.CalculatePath(item.transform.position, temp);
+                if (temp.corners.Length < corners)
+                {
+                    corners = temp.corners.Length;
+                    transf = item;
+                    npcfollow = true;
+                }
+            }
+        }
+        else
+        {
+            if ((_navAgent.remainingDistance <= _navAgent.stoppingDistance && !_navAgent.pathPending) || _navAgent.pathStatus == NavMeshPathStatus.PathInvalid)
+                SetNextDestination(true);
+            else if (_navAgent.isPathStale)
+                SetNextDestination(false);
+        }
     }
 
 }

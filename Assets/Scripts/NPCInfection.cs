@@ -15,7 +15,6 @@ public class NPCInfection : MonoBehaviour
 
     void Update()
     {
-
     }
     private void OnCollisionEnter(Collision collision)
     {
@@ -32,6 +31,9 @@ public class NPCInfection : MonoBehaviour
                     gameObject.GetComponent<MedicAI>().enabled = false;
                     gameObject.GetComponent<Renderer>().material.color = Color.red;
                     renderer = gameObject.GetComponentsInChildren<Renderer>();
+                    gameObject.tag = "Infected";
+                    GetComponent<InfectionLogic>().enabled = true;
+                    SpawnBehave.Infected.Add(gameObject);
                     foreach (var item in renderer)
                     {
                         item.material.color = Color.red;
@@ -43,6 +45,9 @@ public class NPCInfection : MonoBehaviour
                     gameObject.GetComponent<GuardianAI>().enabled = false;
                     gameObject.GetComponent<Renderer>().material.color = Color.red;
                     renderer = gameObject.GetComponentsInChildren<Renderer>();
+                    gameObject.tag = "Infected";
+                    GetComponent<InfectionLogic>().enabled = true;
+                    SpawnBehave.Infected.Add(gameObject);
                     foreach (var item in renderer)
                     {
                         item.material.color = Color.red;
@@ -53,6 +58,9 @@ public class NPCInfection : MonoBehaviour
                 case "CommonNPC":
                     gameObject.GetComponent<Renderer>().material.color = Color.red;
                     renderer = gameObject.GetComponentsInChildren<Renderer>();
+                    gameObject.tag = "Infected";
+                    GetComponent<InfectionLogic>().enabled = true;
+                    SpawnBehave.Infected.Add(gameObject);
                     foreach (var item in renderer)
                     {
                         item.material.color = Color.red;

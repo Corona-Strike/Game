@@ -19,6 +19,7 @@ GameObject:
   - component: {fileID: 7171181922430048106}
   - component: {fileID: 389003014780036176}
   - component: {fileID: 5329600489909707237}
+  - component: {fileID: -6967568565378858380}
   m_Layer: 0
   m_Name: SampleMedicNPC
   m_TagString: Medic
@@ -215,6 +216,18 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 15
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &-6967568565378858380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5594317578072948862}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cdd277ae68493f43a0ecf854501adf6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &5594317578096377496
 GameObject:
   m_ObjectHideFlags: 0

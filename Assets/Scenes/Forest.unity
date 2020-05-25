@@ -5294,6 +5294,23 @@ PrefabInstance:
       propertyPath: director
       value: 
       objectReference: {fileID: 936077571}
+    - target: {fileID: 7027940392925470050, guid: e57615031d6c92648bca970c5e3a68ca,
+        type: 3}
+      propertyPath: sphere_
+      value: 
+      objectReference: {fileID: 8352243249066827094, guid: 020981cbcc4cbad4d8cf679256000e44,
+        type: 3}
+    - target: {fileID: 7027940392925470050, guid: e57615031d6c92648bca970c5e3a68ca,
+        type: 3}
+      propertyPath: bullet
+      value: 
+      objectReference: {fileID: 8352243249066827094, guid: 020981cbcc4cbad4d8cf679256000e44,
+        type: 3}
+    - target: {fileID: 7027940392925470050, guid: e57615031d6c92648bca970c5e3a68ca,
+        type: 3}
+      propertyPath: bulletSpeed
+      value: 50
+      objectReference: {fileID: 0}
     - target: {fileID: 7027940393711191626, guid: e57615031d6c92648bca970c5e3a68ca,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5353,6 +5370,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: player
+      objectReference: {fileID: 0}
+    - target: {fileID: 7027940393711191630, guid: e57615031d6c92648bca970c5e3a68ca,
+        type: 3}
+      propertyPath: sensitivityHoriz
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 7027940393711191669, guid: e57615031d6c92648bca970c5e3a68ca,
         type: 3}

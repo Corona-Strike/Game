@@ -486,6 +486,7 @@ GameObject:
   - component: {fileID: 8498596018729007881}
   - component: {fileID: 1374222227008145459}
   - component: {fileID: -2341105912496681594}
+  - component: {fileID: -3909406044452712764}
   m_Layer: 0
   m_Name: MedicNPC
   m_TagString: Medic
@@ -631,7 +632,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aab3ba8b1086a50488c23be06a94c202, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lifeTime: 10
+  lifeTime: 30
 --- !u!195 &8498596018729007881
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -682,3 +683,15 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 15
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &-3909406044452712764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6617812918715182109}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cdd277ae68493f43a0ecf854501adf6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

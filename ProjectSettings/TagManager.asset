@@ -9,6 +9,7 @@ TagManager:
   - Medic
   - Guardian
   - CommonNPC
+  - Infected
   layers:
   - Default
   - TransparentFX

@@ -16,6 +16,11 @@ public class Suicide : MonoBehaviour
     void Update()
     {
         if (Time.time > eoLife)
-              Destroy(gameObject);
+        {
+            Destroy(gameObject);
+            if (SpawnBehave.Infected.Contains(gameObject))
+                SpawnBehave.Infected.Remove(gameObject);
+            
+        }
     }
 }

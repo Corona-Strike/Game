@@ -298,6 +298,7 @@ GameObject:
   - component: {fileID: 35043568}
   - component: {fileID: 35043562}
   - component: {fileID: 35043563}
+  - component: {fileID: -2825946477878056019}
   m_Layer: 0
   m_Name: GuardianNPC
   m_TagString: Guardian
@@ -444,7 +445,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aab3ba8b1086a50488c23be06a94c202, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lifeTime: 10
+  lifeTime: 30
 --- !u!135 &35043568
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -495,6 +496,18 @@ NavMeshAgent:
   m_BaseOffset: 1
   m_WalkableMask: 4294967295
   m_ObstacleAvoidanceType: 4
+--- !u!114 &-2825946477878056019
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3476518554839605313}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cdd277ae68493f43a0ecf854501adf6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &3476518554880155303
 GameObject:
   m_ObjectHideFlags: 0

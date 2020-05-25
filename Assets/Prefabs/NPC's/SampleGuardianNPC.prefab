@@ -207,6 +207,7 @@ GameObject:
   - component: {fileID: 1210461428384060474}
   - component: {fileID: 1210461428384060448}
   - component: {fileID: 1210461428384060449}
+  - component: {fileID: -4400258555491864819}
   m_Layer: 0
   m_Name: SampleGuardianNPC
   m_TagString: Guardian
@@ -404,6 +405,18 @@ NavMeshAgent:
   m_BaseOffset: 1
   m_WalkableMask: 4294967295
   m_ObstacleAvoidanceType: 4
+--- !u!114 &-4400258555491864819
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2374381572053175435}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cdd277ae68493f43a0ecf854501adf6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2374381572494667397
 GameObject:
   m_ObjectHideFlags: 0

@@ -74,6 +74,8 @@
     <Compile Include="Assets\Gem Shader\Example\GemSpawner.cs" />
     <Compile Include="Assets\Rocks and Boulders 2\Shaders\RotateGameObject.cs" />
     <Compile Include="Assets\Scripts\AI\AIWaypointNetwork.cs" />
+    <Compile Include="Assets\Scripts\AI\GuardianAI.cs" />
+    <Compile Include="Assets\Scripts\AI\MedicAI.cs" />
     <Compile Include="Assets\Scripts\AI\NavAgentExample.cs" />
     <Compile Include="Assets\Scripts\BuildingCrush.cs" />
     <Compile Include="Assets\Scripts\ChunkGen.cs" />
@@ -84,9 +86,8 @@
     <Compile Include="Assets\Scripts\ExitScript.cs" />
     <Compile Include="Assets\Scripts\Explosion.cs" />
     <Compile Include="Assets\Scripts\Global.cs" />
-    <Compile Include="Assets\Scripts\GuardianAI.cs" />
+    <Compile Include="Assets\Scripts\InfectionLogic.cs" />
     <Compile Include="Assets\Scripts\JumpController.cs" />
-    <Compile Include="Assets\Scripts\MedicAI.cs" />
     <Compile Include="Assets\Scripts\Menu.cs" />
     <Compile Include="Assets\Scripts\MovingLogic.cs" />
     <Compile Include="Assets\Scripts\NPCInfection.cs" />

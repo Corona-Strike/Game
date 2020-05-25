@@ -23,7 +23,7 @@ public class shoot : MonoBehaviour
     //  Объект, к скрипту которого хотим обратиться
     [SerializeField] GameObject director;
     [SerializeField] AudioSource soundSource;
-
+    [SerializeField] float bulletSpeed;
     //  
     private UIController outerScript;
 
@@ -62,8 +62,8 @@ public class shoot : MonoBehaviour
                 //   Указываем для вновь созданного объекта положение в пространстве
                 ball.transform.position = transform.position + transform.forward;
 
-                ball.GetComponent<Rigidbody>().velocity = 25.0f * transform.forward;
-                ball.GetComponent<Rigidbody>().angularVelocity = 50.0f * transform.right;
+                ball.GetComponent<Rigidbody>().velocity = bulletSpeed * transform.forward;
+                ball.GetComponent<Rigidbody>().angularVelocity = bulletSpeed * transform.right;
                 //  Так можно создавать примитивы объектов (но нам это не очень интересно)
                 //var ball = GameObject.CreatePrimitive(PrimitiveType.Sphere);
 
@@ -79,7 +79,7 @@ public class shoot : MonoBehaviour
 
             }
             else
-            if (Input.GetMouseButtonDown(1))
+            if (Input.GetKey(KeyCode.R))
             {
                 ammoCount = ammoMaxCount;
                 outerScript.UpdatePolenos(ammoCount);
