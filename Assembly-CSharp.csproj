@@ -93,6 +93,7 @@
     <Compile Include="Assets\Scripts\NPCInfection.cs" />
     <Compile Include="Assets\Scripts\Pause.cs" />
     <Compile Include="Assets\Scripts\PlayerDeath.cs" />
+    <Compile Include="Assets\Scripts\PlayerWin.cs" />
     <Compile Include="Assets\Scripts\Settings.cs" />
     <Compile Include="Assets\Scripts\Spawn\SpawnBehave.cs" />
     <Compile Include="Assets\Scripts\SpawnControl.cs" />

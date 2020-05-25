@@ -7,17 +7,18 @@ using UnityEngine.SceneManagement;
 public class UIController : MonoBehaviour
 {
 
-    [SerializeField] private Text scoreLabel;
-    [SerializeField] private Text deathText;
-    [SerializeField] private Text hpCount;
-    [SerializeField] private Text statText;
-    [SerializeField] Image crosshair;
+    [SerializeField] public Text scoreLabel;
+    [SerializeField] public Text deathText;
+    [SerializeField] public Text hpCount;
+    [SerializeField] public Text statText;
+    [SerializeField] public Image crosshair;
 
     bool countWasUpdated = false;
 
     // Update is called once per frame
     void Update()
     {
+        statText.text = "Заражено: " + SpawnBehave.Infected.Count;
         if (!countWasUpdated)
         {
             string tm = Time.realtimeSinceStartup.ToString().Substring(0,4);
@@ -27,19 +28,24 @@ public class UIController : MonoBehaviour
 
     public void UpdatePolenos(int counter)
     {
-        statText.text = "Заражено: " + Volume.infected;
         scoreLabel.text = "Вирусов : " + counter.ToString();
         countWasUpdated = true;
     }
     public void PlayerDeathScreen()
     {
         crosshair.enabled = false;
-        statText.text = "Зараженных: " + Volume.infected;
+        statText.text = "Зараженных: " + SpawnBehave.Infected.Count;
         deathText.text = "Вы проиграли!";
-        Volume.infected = 0;
         Invoke("RealodLevel", 3);
     }
+    public void PlayerWinScreen()
+    {
+        crosshair.enabled = false;
+        statText.text = "Зараженных: " + SpawnBehave.Infected.Count;
+        deathText.text = "Вы выиграли!";
+        Invoke("RealodLevel", 3);
 
+    }
     public void RealodLevel()
     {
         SceneManager.LoadScene(0);

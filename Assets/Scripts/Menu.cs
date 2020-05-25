@@ -9,6 +9,8 @@ public class Menu : MonoBehaviour
     public void StartGame()
     {
         SceneManager.LoadScene(1);
+        SpawnBehave.ObjectsCount = 0;
+        SpawnBehave.maxSceneObjects = 0;
     }
 
     public void Exit()
@@ -23,5 +25,7 @@ public class Menu : MonoBehaviour
     public void Multiplayer()
     {
         SceneManager.LoadScene(3);
+        SpawnBehave.ObjectsCount = 0;
+        SpawnBehave.maxSceneObjects = 0;
     }
 }

@@ -11,6 +11,8 @@ public class SpawnBehave : MonoBehaviour
     [SerializeField] public static Transform player;
     public static int ObjectsCount;
     public static int maxSceneObjects;
+    public const int MaxSceneObjects = 10;
+    public const int MaxObjectsCount = 25;
     void Start()
     {
         InvokeRepeating(nameof(InstantiateObjects), 0, 6);
@@ -23,7 +25,7 @@ public class SpawnBehave : MonoBehaviour
     }
     void InstantiateObjects()
     {
-        if (ObjectsCount >= 20 || maxSceneObjects >= 50) return;
+        if (ObjectsCount >= MaxObjectsCount || maxSceneObjects >= MaxSceneObjects) return;
         switch (Random.Range(1,20))
         {
             case 1: case 2: case 3: case 4:

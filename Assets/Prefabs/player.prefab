@@ -113,11 +113,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sphere_: {fileID: 3682622659967116189, guid: 0c9e0989d426fd343979aaf322e187d9, type: 3}
-  bullet: {fileID: 6710995837234563267, guid: 06a4128f78b005b438e06747662400f3, type: 3}
+  bullet: {fileID: 8352243249066827094, guid: 020981cbcc4cbad4d8cf679256000e44, type: 3}
   R: 1
   list: []
   director: {fileID: 0}
   soundSource: {fileID: 7027940393566423129}
+  bulletSpeed: 50
   ammoMaxCount: 10
 --- !u!1 &7027940393566423135
 GameObject:
@@ -262,6 +263,7 @@ GameObject:
   - component: {fileID: 7027940393711191668}
   - component: {fileID: 7027940393711191630}
   - component: {fileID: 7027940393711191669}
+  - component: {fileID: 1136553734}
   m_Layer: 0
   m_Name: player
   m_TagString: Player
@@ -392,7 +394,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc3fbdfa70e0bbd41acfbc59e608f736, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sensitivityHoriz: 9
+  sensitivityHoriz: 6
 --- !u!114 &7027940393711191669
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -407,6 +409,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   director: {fileID: 0}
   player: {fileID: 7027940393711191629}
+--- !u!114 &1136553734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7027940393711191629}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87717b97651db78428fdc7a958594382, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  directorControl: {fileID: 0}
 --- !u!1001 &935780011850776199
 PrefabInstance:
   m_ObjectHideFlags: 0
