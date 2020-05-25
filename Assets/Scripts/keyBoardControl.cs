@@ -3,56 +3,40 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
+
 public class keyBoardControl : MonoBehaviour
 {
     
     private CharacterController _charController;
 
-  
-    public float speed = 3.0f;
+    public float speed;
 
-    public float jumpSpeed = 3.0f;
+    public float jumpSpeed;
 
-    public float gravity = 4.0f;
+    public float gravity;
 
+    private Vector3 moveDir = default;
 
     void Start()
     {
-  
         _charController = GetComponent<CharacterController>();
     }
 
     void Update()
     {
 
-
-        float deltaX = Input.GetAxis("Horizontal") * speed;
-        float deltaZ = Input.GetAxis("Vertical") * speed;
-
-        
-        Vector3 movement = new Vector3(deltaX, 0, deltaZ);
-       
-
-        movement = Vector3.ClampMagnitude(movement, speed);
-
-        movement *= Time.deltaTime;
-     
-        movement = transform.TransformDirection(movement);
         if (_charController.isGrounded)
         {
-
-            _charController.Move(movement);
+            Vector3 dir = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
+            moveDir = dir;
+            moveDir = transform.TransformDirection(moveDir);
+            moveDir *= speed;
 
             if (Input.GetButton("Jump"))
-            {
-                movement = new Vector3(0, jumpSpeed, 0);
-                movement = transform.TransformDirection(movement);
-            }
+                moveDir.y = jumpSpeed;
         }
 
-        movement.y -= gravity * Time.deltaTime;
-        _charController.Move(movement);
-
-
+        moveDir.y -= gravity * Time.deltaTime;
+        _charController.Move(moveDir * Time.deltaTime);
     }
 }

@@ -1867,6 +1867,11 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 1170193142}
+    - target: {fileID: 2408048043985249417, guid: 52b9dde4847338244a53688f77b69fe8,
+        type: 3}
+      propertyPath: crosshair
+      value: 
+      objectReference: {fileID: 579725607}
     - target: {fileID: 2408048043985249462, guid: 52b9dde4847338244a53688f77b69fe8,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9861,6 +9866,96 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1829783285}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1834105855
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7545963256634689926, guid: 635707364a619d448b78f614fd4b4852,
+        type: 3}
+      propertyPath: pause
+      value: 
+      objectReference: {fileID: 4097254091929106834, guid: e957794cbfa2a6840b5e24cdd76e74ad,
+        type: 3}
+    - target: {fileID: 7545963256634689926, guid: 635707364a619d448b78f614fd4b4852,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1170193142}
+    - target: {fileID: 7545963256634689926, guid: 635707364a619d448b78f614fd4b4852,
+        type: 3}
+      propertyPath: crosshair
+      value: 
+      objectReference: {fileID: 579725607}
+    - target: {fileID: 7545963256634689976, guid: 635707364a619d448b78f614fd4b4852,
+        type: 3}
+      propertyPath: m_Name
+      value: Global
+      objectReference: {fileID: 0}
+    - target: {fileID: 7545963256634689976, guid: 635707364a619d448b78f614fd4b4852,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7545963256634689977, guid: 635707364a619d448b78f614fd4b4852,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.2526243
+      objectReference: {fileID: 0}
+    - target: {fileID: 7545963256634689977, guid: 635707364a619d448b78f614fd4b4852,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.6977036
+      objectReference: {fileID: 0}
+    - target: {fileID: 7545963256634689977, guid: 635707364a619d448b78f614fd4b4852,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.8384562
+      objectReference: {fileID: 0}
+    - target: {fileID: 7545963256634689977, guid: 635707364a619d448b78f614fd4b4852,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7545963256634689977, guid: 635707364a619d448b78f614fd4b4852,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7545963256634689977, guid: 635707364a619d448b78f614fd4b4852,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7545963256634689977, guid: 635707364a619d448b78f614fd4b4852,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7545963256634689977, guid: 635707364a619d448b78f614fd4b4852,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7545963256634689977, guid: 635707364a619d448b78f614fd4b4852,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7545963256634689977, guid: 635707364a619d448b78f614fd4b4852,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7545963256634689977, guid: 635707364a619d448b78f614fd4b4852,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 635707364a619d448b78f614fd4b4852, type: 3}
 --- !u!1001 &1894498777
 PrefabInstance:
   m_ObjectHideFlags: 0
