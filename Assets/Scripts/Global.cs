@@ -15,10 +15,8 @@ public class Global : MonoBehaviour
     [SerializeField] Image crosshair;
     void Start()
     {
-        crosshair.enabled = true;
+        Volume.pause = false;
         Cursor.visible = false;
-        script = obj.GetComponent<Global>();
-        musicVol = Volume.volume;
     }
 
     void Update()
@@ -33,11 +31,10 @@ public class Global : MonoBehaviour
     public void Pause()
     {
         pause.SetActive(!pause.activeSelf);
-        script.isPaused = !script.isPaused;
+        Volume.pause = !Volume.pause;
         move = !move;
         if (!move) Time.timeScale = 0; else Time.timeScale = 1;
-        Volume.pause = script.isPaused;
         crosshair.enabled = !crosshair.enabled;
-        Cursor.visible = script.isPaused;
+        Cursor.visible = Volume.pause;
     }
 }

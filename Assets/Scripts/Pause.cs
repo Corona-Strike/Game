@@ -15,6 +15,7 @@ public class Pause : MonoBehaviour
 
     public void Settings()
     {
+        SpawnBehave.Infected.Clear();
         SceneManager.LoadScene(2); 
         pause.SetActive(!pause.activeSelf);
         script.Pause();
@@ -23,6 +24,7 @@ public class Pause : MonoBehaviour
 
     public void Menu()
     {
+        SpawnBehave.Infected.Clear();
         SceneManager.LoadScene(0);
         pause.SetActive(!pause.activeSelf);
         script.Pause();

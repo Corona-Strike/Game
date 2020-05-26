@@ -8,19 +8,28 @@ public class PlayerDeath : MonoBehaviour // логика поведения иг
     [SerializeField] GameObject director = null; // ссылка на UI составляющую
     [SerializeField] GameObject player = null; // ссылка на игрока
     UIController directorControll;
+    CharacterController charController;
     private int hp;
     void Start()
     {
         hp = 100;
         directorControll = director.GetComponent<UIController>(); 
         directorControll.UpdateHP(hp); // обновление хп со значением hp
+        charController = player.GetComponent<CharacterController>();
     }
 
     void Update()
     {
+        if (Input.GetKey(KeyCode.P))
+        {
+            hp = 0;
+
+        }
+
         if (hp <= 0) // если хп меньше или равно 0, то уничтожаем игрока и выводим сообщение о проигрыше
         {
-            PlayerDeath.Destroy(player);
+            Volume.pause = true;
+            Destroy(charController);
             directorControll.PlayerDeathScreen();
             Cursor.visible = true;
         }

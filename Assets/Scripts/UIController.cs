@@ -48,6 +48,7 @@ public class UIController : MonoBehaviour
     }
     public void RealodLevel()
     {
+        SpawnBehave.Infected.Clear();
         SceneManager.LoadScene(0);
     }
 
