@@ -61,6 +61,7 @@ public class NavAgentExample : MonoBehaviour
             int corners = 1000000;
             if (npcfollow)
             {
+                _navAgent.speed = 10f;
                 _navAgent.destination = transf.transform.position;
                 if (_navAgent.pathStatus == NavMeshPathStatus.PathComplete) npcfollow = false;
                 return;
@@ -79,6 +80,7 @@ public class NavAgentExample : MonoBehaviour
         }
         else
         {
+            _navAgent.speed = 6f;
             if ((_navAgent.remainingDistance <= _navAgent.stoppingDistance && !_navAgent.pathPending) || _navAgent.pathStatus == NavMeshPathStatus.PathInvalid)
                 SetNextDestination(true);
             else if (_navAgent.isPathStale)

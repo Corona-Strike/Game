@@ -9,7 +9,6 @@ public class NPCInfection : MonoBehaviour
 {
     int infections = 0;
     Renderer[] renderer = null;
-    public static event Action<float> OnInfection;
     void Start()
     {
         GetComponent<Suicide>().enabled = false;
@@ -41,8 +40,7 @@ public class NPCInfection : MonoBehaviour
                         item.material.color = Color.red;
                     }
                     GetComponent<Suicide>().enabled = true;
-                    OnInfection?.Invoke(Time.time);
-                    SpawnBehave.ObjectsCount--;
+                    GetComponent<Suicide>().UpdateTime();
                     break;
                 case "Guardian":
                     gameObject.GetComponent<GuardianAI>().enabled = false;
@@ -56,8 +54,7 @@ public class NPCInfection : MonoBehaviour
                         item.material.color = Color.red;
                     }
                     GetComponent<Suicide>().enabled = true;
-                    OnInfection?.Invoke(Time.time);
-                    SpawnBehave.ObjectsCount--;
+                    GetComponent<Suicide>().UpdateTime();
                     break;
                 case "CommonNPC":
                     gameObject.GetComponent<Renderer>().material.color = Color.red;
@@ -70,8 +67,7 @@ public class NPCInfection : MonoBehaviour
                         item.material.color = Color.red;
                     }
                     GetComponent<Suicide>().enabled = true;
-                    OnInfection?.Invoke(Time.time);
-                    SpawnBehave.ObjectsCount--;
+                    GetComponent<Suicide>().UpdateTime();
                     break;
                 default:
                     break;

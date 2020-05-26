@@ -11,8 +11,8 @@ public class SpawnBehave : MonoBehaviour
     [SerializeField] public static Transform player;
     public static int ObjectsCount;
     public static int maxSceneObjects;
-    public const int MaxSceneObjects = 10;
-    public const int MaxObjectsCount = 25;
+    public const int MaxObjectsCount = 12;
+    public const int MaxSceneObjects = 30;
     void Start()
     {
         InvokeRepeating(nameof(InstantiateObjects), 0, 6);
@@ -29,19 +29,19 @@ public class SpawnBehave : MonoBehaviour
         switch (Random.Range(1,20))
         {
             case 1: case 2: case 3: case 4:
-                Instantiate(Guard, gameObject.transform.position, Quaternion.identity);
                 maxSceneObjects++;
                 ObjectsCount++;
+                Instantiate(Guard, gameObject.transform.position, Quaternion.identity);
                 break;
             case 5: case 6: case 7: case 8: case 9: case 10:
-                Instantiate(Medic, gameObject.transform.position, Quaternion.identity);
                 maxSceneObjects++;
                 ObjectsCount++;
+                Instantiate(Medic, gameObject.transform.position, Quaternion.identity);
                 break;
             case 11: case 12: case 13: case 14: case 15: case 16: case 17: case 18: case 19:
-                Instantiate(Common, gameObject.transform.position, Quaternion.identity);
                 maxSceneObjects++;
                 ObjectsCount++;
+                Instantiate(Common, gameObject.transform.position, Quaternion.identity);
                 break;
         }
     }

@@ -10,12 +10,12 @@ public class Suicide : MonoBehaviour
     void Start()
     {
         eoLife = Time.time + lifeTime;
-        NPCInfection.OnInfection += e =>
-        {
-            eoLife = e + lifeTime;
-        };
     }
 
+    public void UpdateTime()
+    {
+        eoLife = Time.time + lifeTime;
+    }
     // Update is called once per frame
     void Update()
     {
@@ -24,7 +24,10 @@ public class Suicide : MonoBehaviour
         {
             Destroy(gameObject);
             if (SpawnBehave.Infected.Contains(gameObject))
+            {
                 SpawnBehave.Infected.Remove(gameObject);
+                SpawnBehave.ObjectsCount--;
+            }
         }
     }
 }
