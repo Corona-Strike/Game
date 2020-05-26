@@ -18,7 +18,7 @@ public class UIController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        statText.text = "Заражено: " + SpawnBehave.Infected.Count;
+        statText.text = "Зараженных: " + SpawnBehave.Infected.Count;
         if (!countWasUpdated)
         {
             string tm = Time.realtimeSinceStartup.ToString().Substring(0,4);
