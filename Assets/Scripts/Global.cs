@@ -5,11 +5,7 @@ using UnityEngine.UI;
 
 public class Global : MonoBehaviour
 {
-    public GameObject player;
     public GameObject pause;
-    public GameObject obj;
-    private Global script;
-    public bool isPaused;
     private bool move = true;
     public float musicVol;
     [SerializeField] Image crosshair;

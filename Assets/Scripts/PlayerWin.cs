@@ -9,7 +9,9 @@ public class PlayerWin : MonoBehaviour
     {
         if (maxSceneObjects == MaxSceneObjects && ObjectsCount == 0 && Infected.Count == 0)
         {
-            Destroy(gameObject);
+            Destroy(GetComponent<CharacterController>());
+            GetComponent<spin_body>().enabled = false;
+            GetComponentInChildren<spin>().enabled = false;
             directorControl.deathText.text = "Вы выиграли!";
             directorControl.PlayerWinScreen();
         }

@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEditor.Experimental.GraphView;
 using UnityEngine;
+using UnityEngine.AI;
 using UnityEngine.UI;
 
 public class NPCInfection : MonoBehaviour
@@ -33,6 +34,7 @@ public class NPCInfection : MonoBehaviour
                     gameObject.GetComponent<Renderer>().material.color = Color.red;
                     renderer = gameObject.GetComponentsInChildren<Renderer>();
                     gameObject.tag = "Infected";
+                    GetComponent<NavMeshAgent>().speed = 6;
                     GetComponent<InfectionLogic>().enabled = true;
                     SpawnBehave.Infected.Add(gameObject);
                     foreach (var item in renderer)
