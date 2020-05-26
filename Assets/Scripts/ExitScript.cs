@@ -19,6 +19,5 @@ public class ExitScript : MonoBehaviour
     void TaskOnClick()
     {
         Application.Quit(); 
-        UnityEditor.EditorApplication.isPlaying = false;
     }
 }

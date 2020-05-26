@@ -24,6 +24,14 @@ public class keyBoardControl : MonoBehaviour
 
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.LeftShift))
+        {
+            speed += 5f;
+        }
+        if (Input.GetKeyUp(KeyCode.LeftShift))
+        {
+            speed -= 5f;
+        }
 
         if (_charController.isGrounded)
         {

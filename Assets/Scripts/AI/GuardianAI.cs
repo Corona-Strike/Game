@@ -17,7 +17,7 @@ public class GuardianAI : MonoBehaviour
     private NavAgentExample agent = null;
     private DateTime t1;
 
-    private float waittime = 3f;
+    private float waittime = 7f;
 
     void Update()
     {
