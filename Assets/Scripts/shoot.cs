@@ -85,6 +85,7 @@ public class shoot : MonoBehaviour
                 outerScript.UpdatePolenos(ammoCount);
 
             }
+        
 
             for (int i = 0; i < list.Count; i++)
             {
